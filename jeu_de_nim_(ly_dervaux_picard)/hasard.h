@@ -1,0 +1,1 @@
+int hasard( int, int );

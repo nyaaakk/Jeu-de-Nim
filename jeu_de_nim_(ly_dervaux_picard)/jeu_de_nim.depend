@@ -1,0 +1,179 @@
+# depslib dependency file v1.0
+1608548903 source:c:\users\ryann\documents\[iut] c\projet\jeu_de_nim\nimber.c
+	"nimber.h"
+
+1610014941 source:c:\users\ryann\documents\[iut] c\projet\jeu_de_nim\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	"lire_entier.h"
+	"nimber.h"
+	"parametres.h"
+	"grille.h"
+	"voisines.h"
+	"hasard.h"
+	"coup_joueur.h"
+	"coup_ordi_hasard.h"
+	"coup_ordi_gagnant.h"
+	"attendre.h"
+
+1610005415 source:c:\users\ryann\documents\[iut] c\projet\jeu_de_nim\lire_entier.c
+	<stdio.h>
+	"lire_entier.h"
+
+1608549123 c:\users\ryann\documents\[iut] c\projet\jeu_de_nim\lire_entier.h
+
+1608547972 c:\users\ryann\documents\[iut] c\projet\jeu_de_nim\nimber.h
+
+1608548335 c:\users\ryann\documents\[iut] c\projet\jeu_de_nim\parametres.h
+
+1609980240 source:c:\users\ryann\documents\[iut] c\projet\jeu_de_nim\parametres.c
+	<stdio.h>
+	"parametres.h"
+	"lire_entier.h"
+
+1609814797 source:c:\users\ryann\documents\[iut] c\projet\jeu_de_nim\grille.c
+	<stdio.h>
+	"grille.h"
+
+1609586714 c:\users\ryann\documents\[iut] c\projet\jeu_de_nim\grille.h
+
+1609980729 source:c:\users\ryann\documents\[iut] c\projet\jeu_de_nim\voisines.c
+	"voisines.h"
+
+1609586667 c:\users\ryann\documents\[iut] c\projet\jeu_de_nim\voisines.h
+
+1609889892 source:c:\users\ryann\documents\[iut] c\projet\jeu_de_nim\hasard.c
+	<stdlib.h>
+	<time.h>
+	"hasard.h"
+
+1609583380 c:\users\ryann\documents\[iut] c\projet\jeu_de_nim\hasard.h
+
+1610007473 source:c:\users\ryann\documents\[iut] c\projet\jeu_de_nim\coup_joueur.c
+	<stdio.h>
+	"coup_joueur.h"
+	"grille.h"
+	"voisines.h"
+	"lire_entier.h"
+
+1609814206 c:\users\ryann\documents\[iut] c\projet\jeu_de_nim\coup_joueur.h
+
+1610014544 source:c:\users\ryann\documents\[iut] c\projet\jeu_de_nim\coup_ordi_hasard.c
+	<stdio.h>
+	<stdlib.h>
+	"coup_ordi_hasard.h"
+	"grille.h"
+	"voisines.h"
+	"hasard.h"
+	"attendre.h"
+
+1609888309 c:\users\ryann\documents\[iut] c\projet\jeu_de_nim\coup_ordi_hasard.h
+
+1610014544 source:c:\users\ryann\documents\[iut] c\projet\jeu_de_nim\coup_ordi_gagnant.c
+	<stdio.h>
+	<stdlib.h>
+	"coup_ordi_gagnant.h"
+	"grille.h"
+	"voisines.h"
+	"hasard.h"
+	"nimber.h"
+	"attendre.h"
+
+1609891841 c:\users\ryann\documents\[iut] c\projet\jeu_de_nim\coup_ordi_gagnant.h
+
+1610014756 source:c:\users\ryann\documents\[iut] c\projet\jeu_de_nim\attendre.c
+	<windows.h>
+
+1610014756 c:\users\ryann\documents\[iut] c\projet\jeu_de_nim\attendre.h
+
+1610014756 source:c:\users\ryann\documents\[iut] c\projet\jeu_de_nim_(ly_dervaux_picard)\attendre.c
+	<windows.h>
+
+1610007473 source:c:\users\ryann\documents\[iut] c\projet\jeu_de_nim_(ly_dervaux_picard)\coup_joueur.c
+	<stdio.h>
+	"coup_joueur.h"
+	"grille.h"
+	"voisines.h"
+	"lire_entier.h"
+
+1609814206 c:\users\ryann\documents\[iut] c\projet\jeu_de_nim_(ly_dervaux_picard)\coup_joueur.h
+
+1609586714 c:\users\ryann\documents\[iut] c\projet\jeu_de_nim_(ly_dervaux_picard)\grille.h
+
+1609586667 c:\users\ryann\documents\[iut] c\projet\jeu_de_nim_(ly_dervaux_picard)\voisines.h
+
+1608549123 c:\users\ryann\documents\[iut] c\projet\jeu_de_nim_(ly_dervaux_picard)\lire_entier.h
+
+1610014544 source:c:\users\ryann\documents\[iut] c\projet\jeu_de_nim_(ly_dervaux_picard)\coup_ordi_gagnant.c
+	<stdio.h>
+	<stdlib.h>
+	"coup_ordi_gagnant.h"
+	"grille.h"
+	"voisines.h"
+	"hasard.h"
+	"nimber.h"
+	"attendre.h"
+
+1609891841 c:\users\ryann\documents\[iut] c\projet\jeu_de_nim_(ly_dervaux_picard)\coup_ordi_gagnant.h
+
+1609583380 c:\users\ryann\documents\[iut] c\projet\jeu_de_nim_(ly_dervaux_picard)\hasard.h
+
+1608547972 c:\users\ryann\documents\[iut] c\projet\jeu_de_nim_(ly_dervaux_picard)\nimber.h
+
+1610014756 c:\users\ryann\documents\[iut] c\projet\jeu_de_nim_(ly_dervaux_picard)\attendre.h
+
+1610014544 source:c:\users\ryann\documents\[iut] c\projet\jeu_de_nim_(ly_dervaux_picard)\coup_ordi_hasard.c
+	<stdio.h>
+	<stdlib.h>
+	"coup_ordi_hasard.h"
+	"grille.h"
+	"voisines.h"
+	"hasard.h"
+	"attendre.h"
+
+1609888309 c:\users\ryann\documents\[iut] c\projet\jeu_de_nim_(ly_dervaux_picard)\coup_ordi_hasard.h
+
+1609814797 source:c:\users\ryann\documents\[iut] c\projet\jeu_de_nim_(ly_dervaux_picard)\grille.c
+	<stdio.h>
+	"grille.h"
+
+1609889892 source:c:\users\ryann\documents\[iut] c\projet\jeu_de_nim_(ly_dervaux_picard)\hasard.c
+	<stdlib.h>
+	<time.h>
+	"hasard.h"
+
+1610005415 source:c:\users\ryann\documents\[iut] c\projet\jeu_de_nim_(ly_dervaux_picard)\lire_entier.c
+	<stdio.h>
+	"lire_entier.h"
+
+1610014941 source:c:\users\ryann\documents\[iut] c\projet\jeu_de_nim_(ly_dervaux_picard)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	"lire_entier.h"
+	"nimber.h"
+	"parametres.h"
+	"grille.h"
+	"voisines.h"
+	"hasard.h"
+	"coup_joueur.h"
+	"coup_ordi_hasard.h"
+	"coup_ordi_gagnant.h"
+	"attendre.h"
+
+1608548335 c:\users\ryann\documents\[iut] c\projet\jeu_de_nim_(ly_dervaux_picard)\parametres.h
+
+1608548903 source:c:\users\ryann\documents\[iut] c\projet\jeu_de_nim_(ly_dervaux_picard)\nimber.c
+	"nimber.h"
+
+1609980240 source:c:\users\ryann\documents\[iut] c\projet\jeu_de_nim_(ly_dervaux_picard)\parametres.c
+	<stdio.h>
+	"parametres.h"
+	"lire_entier.h"
+
+1609980729 source:c:\users\ryann\documents\[iut] c\projet\jeu_de_nim_(ly_dervaux_picard)\voisines.c
+	"voisines.h"
+

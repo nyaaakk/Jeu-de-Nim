@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="jeu_de_nim" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/jeu_de_nim" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/jeu_de_nim" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="attendre.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="attendre.h" />
+		<Unit filename="coup_joueur.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="coup_joueur.h" />
+		<Unit filename="coup_ordi_gagnant.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="coup_ordi_gagnant.h" />
+		<Unit filename="coup_ordi_hasard.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="coup_ordi_hasard.h" />
+		<Unit filename="grille.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="grille.h" />
+		<Unit filename="hasard.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="hasard.h" />
+		<Unit filename="lire_entier.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lire_entier.h" />
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="nimber.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="nimber.h" />
+		<Unit filename="parametres.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="parametres.h" />
+		<Unit filename="voisines.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="voisines.h" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
